@@ -1,9 +1,9 @@
 name: PrestaShop
 author: PrestaShop
-logo_url: 'https://www.prestashop.com/sites/all/themes/prestashop/images/logo_ps_first.svg'
+logo_url: 'https://assets.prestashop2.com/en/system/files/filedepot/15/media_1_prestashop-gliph.png'
 version: 1.7
 description: "PrestaShop is an Open Source e-commerce web application, committed to providing the best shopping cart experience for both merchants and customers. It is written in PHP, is highly customizable, supports all the major payment services, is translated in many languages and localized for many countries, has a fully responsive design (both front and back office), etc."
-short_description: 'PrestaShop is an Open Source e-commerce web application, committed to providing the best shopping cart experience for both merchants and customers. It is written in PHP, is highly customizable, supports all the major payment services, is translated in many languages and localized for many countries, has a fully responsive design (both front and back office), etc.'
+short_description: 'PrestaShop is an efficient and innovative e-commerce solution with all the features you need to create an online store and grow your business.'
 stack: php
 pack: '**/*.*'
 dest: /
